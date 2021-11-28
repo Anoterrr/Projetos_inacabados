@@ -1,0 +1,10 @@
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\bin\Debug\AplWFAExemplo3.exe.config
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\bin\Debug\AplWFAExemplo3.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\bin\Debug\AplWFAExemplo3.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.csprojAssemblyReference.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.Form1.resources
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.Properties.Resources.resources
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.csproj.GenerateResource.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.csproj.CoreCompileInputs.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExemplo3\AplWFAExemplo3\obj\Debug\AplWFAExemplo3.pdb

@@ -1,0 +1,6 @@
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\library\ClOperacoes\ClOperacoes\bin\Debug\ClOperacoes.dll
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\library\ClOperacoes\ClOperacoes\bin\Debug\ClOperacoes.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\library\ClOperacoes\ClOperacoes\obj\Debug\ClOperacoes.csprojAssemblyReference.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\library\ClOperacoes\ClOperacoes\obj\Debug\ClOperacoes.csproj.CoreCompileInputs.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\library\ClOperacoes\ClOperacoes\obj\Debug\ClOperacoes.dll
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\library\ClOperacoes\ClOperacoes\obj\Debug\ClOperacoes.pdb

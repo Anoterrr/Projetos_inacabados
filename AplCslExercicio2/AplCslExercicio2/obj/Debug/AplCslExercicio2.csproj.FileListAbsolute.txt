@@ -1,0 +1,7 @@
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\bin\Debug\AplCslExercicio2.exe.config
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\bin\Debug\AplCslExercicio2.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\bin\Debug\AplCslExercicio2.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\obj\Debug\AplCslExercicio2.csprojAssemblyReference.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\obj\Debug\AplCslExercicio2.csproj.CoreCompileInputs.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\obj\Debug\AplCslExercicio2.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio2\AplCslExercicio2\obj\Debug\AplCslExercicio2.pdb

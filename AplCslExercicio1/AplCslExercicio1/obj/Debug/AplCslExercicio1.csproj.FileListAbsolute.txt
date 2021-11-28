@@ -1,0 +1,7 @@
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\bin\Debug\AplCslExercicio1.exe.config
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\bin\Debug\AplCslExercicio1.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\bin\Debug\AplCslExercicio1.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.csprojAssemblyReference.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.csproj.CoreCompileInputs.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\AplCslExercicio1\AplCslExercicio1\obj\Debug\AplCslExercicio1.pdb

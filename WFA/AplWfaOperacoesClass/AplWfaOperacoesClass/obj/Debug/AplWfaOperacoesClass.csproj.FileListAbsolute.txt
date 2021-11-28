@@ -1,0 +1,13 @@
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\bin\Debug\AplWfaOperacoesClass.exe.config
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\bin\Debug\AplWfaOperacoesClass.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\bin\Debug\AplWfaOperacoesClass.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\bin\Debug\ClOperacoes.dll
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\bin\Debug\ClOperacoes.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.csprojAssemblyReference.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.Form1.resources
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.Properties.Resources.resources
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.csproj.GenerateResource.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.csproj.CoreCompileInputs.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.csproj.CopyComplete
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWfaOperacoesClass\AplWfaOperacoesClass\obj\Debug\AplWfaOperacoesClass.pdb

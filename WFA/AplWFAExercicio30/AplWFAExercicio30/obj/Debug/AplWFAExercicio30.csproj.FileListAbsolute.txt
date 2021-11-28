@@ -1,0 +1,10 @@
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\bin\Debug\AplWFAExercicio30.exe.config
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\bin\Debug\AplWFAExercicio30.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\bin\Debug\AplWFAExercicio30.pdb
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.csprojAssemblyReference.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.Exercicio30.resources
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.Properties.Resources.resources
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.csproj.GenerateResource.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.csproj.CoreCompileInputs.cache
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.exe
+D:\Gustavo\Estudos\Desenvolvimento_sistemas\modulo_2\DS\projetos\WFA\AplWFAExercicio30\AplWFAExercicio30\obj\Debug\AplWFAExercicio30.pdb
